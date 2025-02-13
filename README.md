@@ -1,7 +1,7 @@
 # SV-DeltaSkins
-### Delta Emulator Skins for iPhone
+### Skins for Delta Emulator!
 
-Welcome to my repository for downloadable **Skins** for the **Delta Emulator** on **iOS**!
+**Welcome** to my repository for downloadable **Skins** for the **Delta Emulator** app on **iOS**!
 
 > [!NOTE]
 > *Currently, we offer two skins: **Light** and **Dark** for the **Nintendo DS**. In the future, more variants will be added, including skins for other consoles like the **GBA** and devices such as the **iPad**.*
@@ -26,14 +26,14 @@ If you'd like to support me and my work, feel free to visit the page: <a href="h
 
 ## Introduction
 
-This repository provides skins for the **Delta Emulator**. The skins are designed to enhance your gaming experience, with, for example, **Light** and **Dark** themes for the **Nintendo DS**.  
+This repository provides skins for the **Delta Emulator** app. The skins are designed to enhance your gaming experience, with, for example, **Light** and **Dark** themes for the **Nintendo DS**.  
 Additionally, the skins are optimized to make the most out of the available screen space, ensuring a better and more immersive experience.
 
 Each **Skin** is designed to support both **portrait** and **landscape** orientations.
 
 ## How to Install
 
-1. Download the desired **deltaskin** file and save it on your device (for example, in the **Files** app).
+1. Download the desired **deltaskin** file and save it on your device (you can manage it through the **File** app).
 2. Open the **Delta** app on your device.
 3. Tap on the '⚙️' icon to go to **Settings**, and under **Controller Skins**, tap on the desired console.
 4. Tap on the image of **Portrait** or **Landscape** to go to the corresponding section.
