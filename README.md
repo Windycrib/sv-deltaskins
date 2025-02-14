@@ -41,8 +41,11 @@ Each **Skin** is designed to support both **portrait** and **landscape** orienta
 6. The skins will now appear in both the **Portrait** and **Landscape** sections. Tap on the desired skin in each section to apply it.
 7. Enjoy your enhanced gaming experience!
 
+> [!IMPORTANT]
+> *For each skin, the version with the swapped (inverted) screens is available, marked with 'Swap'. Both the normal and Swap versions can be added, and you can select the desired version directly from Delta.*
+
 > [!TIP]
-> *Delta allows you to choose a separate skin for each orientation. For instance, if you prefer a **Light** skin for **portrait** and a **Dark** skin for **landscape**, you can download and install both skins. Then, from within Delta, you can select which skin to apply to each orientation individually.*
+> *Delta allows you to choose a separate skin for each orientation. For instance, if you prefer a **Light** skin for **portrait** and a **Dark Swapped** skin for **landscape**, you can download and install both skins. Then, from within Delta, you can select which skin to apply to each orientation individually.*
 
 More info: <a href="https://faq.deltaemulator.com/using-delta/controller-skins" target="_blank">Delta User Guide - Controller Skins</a>.
 
