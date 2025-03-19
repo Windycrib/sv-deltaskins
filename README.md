@@ -33,13 +33,21 @@ Each **Skin** is designed to support both **portrait** and **landscape** orienta
 
 ## How to Install
 
-1. Download the desired **deltaskin** file and save it on your device (you can manage it through the **File** app).
-2. Open the **Delta** app on your device.
-3. Tap on the '⚙️' icon to go to **Settings**, and under **Controller Skins**, tap on the desired console.
-4. Tap on the image of **Portrait** or **Landscape** to go to the corresponding section.
-5. Tap the '➕' icon in the top right corner and choose the downloaded **deltaskin** file.
-6. The skins will now appear in both the **Portrait** and **Landscape** sections. Tap on the desired skin in each section to apply it.
-7. Enjoy your enhanced gaming experience!
+1. Download the desired **deltaskin** file:
+   - Inside this GitHub repository, navigate to the appropriate folder, e.g.:
+      - SV - DS Dark v1
+      - SV - DS Dark v2
+      - etc
+   - Inside, you'll find the **skins**.
+   - To download theam, click on the file name, then click the three vertical dots in the top-right corner, and select **Download**.
+2. Install the skin in Delta:
+   - Download the desired **deltaskin** file and save it on your device (you can manage it through the **File** app).
+   - Open the **Delta** app on your device.
+   - Tap on the '⚙️' icon to go to **Settings**, and under **Controller Skins**, tap on the desired console.
+   - Tap on the image of **Portrait** or **Landscape** to go to the corresponding section.
+   - Tap the '➕' icon in the top right corner and choose the downloaded **deltaskin** file.
+   - The skins will now appear in both the **Portrait** and **Landscape** sections. Tap on the desired skin in each section to apply it.
+3. Enjoy your enhanced gaming experience!
 
 > [!IMPORTANT]
 > *For each skin, the version with the **Swapped** (inverted) screens is available, marked with **'Swap'**. Both the normal and Swap versions can be added, and you can select the desired version directly from Delta.*
