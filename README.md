@@ -42,7 +42,7 @@ Each **Skin** is designed to support both **portrait** and **landscape** orienta
 7. Enjoy your enhanced gaming experience!
 
 > [!IMPORTANT]
-> *For each skin, the version with the swapped (inverted) screens is available, marked with 'Swap'. Both the normal and Swap versions can be added, and you can select the desired version directly from Delta.*
+> *For each skin, the version with the **Swapped** (inverted) screens is available, marked with **'Swap'**. Both the normal and Swap versions can be added, and you can select the desired version directly from Delta.*
 
 > [!TIP]
 > *Delta allows you to choose a separate skin for each orientation. For instance, if you prefer a **Light** skin for **portrait** and a **Dark Swapped** skin for **landscape**, you can download and install both skins. Then, from within Delta, you can select which skin to apply to each orientation individually.*
@@ -59,11 +59,13 @@ The **Nintendo DS** skins are designed to give you an optimal and immersive expe
 
 #### DS Light
 
-![SV - DS Light v1_0](/assets/ds_light.png)
+![SV - DS Light v1_0](/assets/sv_ds_light_v2_0.png)
+![SV - DS Light v1_0](/assets/sv_ds_light_v1_0.png)
 
 #### DS Dark
 
-![SV - DS Dark v1_0](/assets/ds_dark.png)
+![SV - DS Dark v1_0](/assets/sv_ds_dark_v2_0.png)
+![SV - DS Dark v1_0](/assets/sv_ds_dark_v1_0.png)
 
 ## Support
 
