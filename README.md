@@ -4,7 +4,7 @@
 **Welcome** to my repository for downloadable **Skins** for the **Delta Emulator** app on **iOS**!
 
 > [!NOTE]
-> *Currently, we offer two skins: **Light** and **Dark** for the **Nintendo DS**. In the future, more variants will be added, including skins for other consoles like the **GBA** and devices such as the **iPad**.*
+> *Currently, we offer two skins: **Light** and **Dark** for the **Nintendo DS**. In the future, more variants will be added, including skins for other consoles like the **GBA**.*
 
 ![Cover](/assets/cover.png)
 
@@ -67,13 +67,15 @@ The **Nintendo DS** skins are designed to give you an optimal and immersive expe
 
 #### DS Light
 
-![SV - DS Light v1_0](/assets/sv_ds_light_v2_0.png)
-![SV - DS Light v1_0](/assets/sv_ds_light_v1_0.png)
+![SV - DS Light v1](/assets/sv_ds_light_v2.png)
+![SV - DS Light v1](/assets/sv_ds_light_v2_ipad.png)
+![SV - DS Light v1](/assets/sv_ds_light_v1.png)
 
 #### DS Dark
 
-![SV - DS Dark v1_0](/assets/sv_ds_dark_v2_0.png)
-![SV - DS Dark v1_0](/assets/sv_ds_dark_v1_0.png)
+![SV - DS Dark v1](/assets/sv_ds_dark_v2.png)
+![SV - DS Dark v1](/assets/sv_ds_dark_v2_ipad.png)
+![SV - DS Dark v1](/assets/sv_ds_dark_v1.png)
 
 ## Support
 
