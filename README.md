@@ -4,10 +4,11 @@
 **Welcome** to my repository for downloadable **Skins** for the **Delta Emulator** app on **iOS**!
 
 > [!NOTE]
-> *Currently, we offer two skins: **Light** and **Dark** for the **Nintendo DS**. In the future, more variants will be added, including skins for other consoles like the **GBA**.*
+> *Currently, we offer two main skins: **Light** and **Dark** for the **Nintendo DS**. In the future, more variants will be added, including skins for other consoles like the **GBA**.*
 
-![Cover](/assets/cover.png)
-![Cover2](/assets/cover2.png)
+![Cover](/assets/cover-iphone.png)
+![Cover](/assets/cover-iphone-2.png)
+![Cover2](/assets/cover-ipad.png)
 
 If you'd like to support me and my work, feel free to visit the page: <a href="https://www.buymeacoffee.com/svisciano" target="_blank">Support Me</a>.
 
